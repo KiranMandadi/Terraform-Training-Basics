@@ -8,6 +8,6 @@ resource "aws_instance" "myec2" {
 
   tags = {
     Name = "First EC2 Instance"
-    Team = "Service Product Team"
+    Team = "CCB Technology"
   }
 }
