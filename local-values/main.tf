@@ -1,7 +1,6 @@
 locals {
   common_tags = {
     Name    = "Terraform AWS Resource"
-    Product = "Service Product"
     Owner   = "AD Team"
   }
 }
